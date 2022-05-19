@@ -12,6 +12,6 @@ if(rober == "GAY"){
      console.log("Bober Gaaaaaaaayyyy");
 }
 
-let futbolistasGod = ["Messi", "Neymar", "KAKÁ", "Roman(el ultimo 10)", "Titi Henry"]
+let futbolistasGod = ["Messi", "Neymar DO Santos", "KAKÁ", "Roman(el ultimo 10)", "Titi Henry", "deibis berkam"]
 
 console.log(futbolistasGod);
